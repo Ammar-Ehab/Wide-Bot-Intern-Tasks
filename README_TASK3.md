@@ -30,7 +30,6 @@ Similarly, the precision, recall, and F1-score for class 5 are relatively lower 
 ### Class 7(Marocains-du-monde): 
 While the precision and recall are decent for class 7, the F1-score is slightly lower, suggesting that the model may face challenges in precisely capturing instances of class 7.
 
-However, we are predicting “sport(1)”, “art-et-culture(10)”, “medias(6)”, “tamazight(0)” with high accuracy.
-
-
 ![SGDClassifier](https://github.com/Ammar-Ehab/Wide-Bot-Intern-Tasks/assets/67014583/6ca4623f-b752-402c-9dc1-572ffb690575)
+
+However, we are predicting “sport(1)”, “art-et-culture(10)”, “medias(6)”, “tamazight(0)” with high accuracy.
